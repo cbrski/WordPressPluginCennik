@@ -1,0 +1,27 @@
+div.pt-flex-container {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+}
+
+div.full-container {
+   width: 100%;
+   flex-direction: row;
+}
+
+div.pt-paragraph-container {
+   width: 20%;
+   float: left;
+}
+
+p.pt-paragraph {
+   text-align: right;
+   margin: 0;
+   padding: 6px 20px;
+}
+
+input.pt-input-field {
+   width: 80%;
+   float: right;
+   vertical-align: middle;
+}
