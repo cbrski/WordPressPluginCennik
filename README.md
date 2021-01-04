@@ -1,4 +1,4 @@
-#### wtyczka Wordpress: cenniki
+#### wtyczka WordPress: Cennik
 
 Wtyczka napisana w 2016 roku.  
   
